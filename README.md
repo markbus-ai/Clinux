@@ -21,22 +21,22 @@ Este proyecto es una aplicación de escritorio desarrollada en Python utilizando
 
 ```sh
 pip install -r requirements.txt
+```
 Instalación
 Clona este repositorio:
-sh
-Copiar código
+```sh
 git clone https://github.com/tu_usuario/optimizador-sistema-avanzado.git
 cd optimizador-sistema-avanzado
+```
 Instala las dependencias:
-sh
-Copiar código
+```sh
 pip install -r requirements.txt
+```
 Uso
 Ejecuta el script principal:
-
-sh
-Copiar código
-python optimizador.py
+```sh
+python3 optimizador.py
+```
 Contribuciones
 Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos:
 
@@ -46,7 +46,7 @@ Realiza tus cambios y haz commit (git commit -am 'Agrega nueva característica')
 Sube tu rama (git push origin feature/nueva-caracteristica).
 Abre un Pull Request.
 Licencia
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
+Este proyecto está bajo la Licencia MIT.
 
 Autor
 Desarrollado por Markbusking.
